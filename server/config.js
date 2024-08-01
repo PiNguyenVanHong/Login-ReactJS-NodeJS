@@ -1,0 +1,6 @@
+export default {
+    JWT_SECRET: "PiKayQifsdfdfsgfggdsfdasdasd",
+    EMAIL: "arjun.medhurst77@ethereal.email",
+    EMAIL_PASS: "DQ1QU37J9bqnwBjUsw",
+    ATLAS_URI: "mongodb+srv://admin:7YFjyCkGSk5nar1G@cluster0.ogl2nev.mongodb.net/test"
+}
